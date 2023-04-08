@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\bin\Debug\net6.0\ConsoleProgramming0408.exe
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\bin\Debug\net6.0\ConsoleProgramming0408.deps.json
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\bin\Debug\net6.0\ConsoleProgramming0408.runtimeconfig.json
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\bin\Debug\net6.0\ConsoleProgramming0408.dll
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\bin\Debug\net6.0\ConsoleProgramming0408.pdb
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\obj\Debug\net6.0\ConsoleProgramming0408.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\obj\Debug\net6.0\ConsoleProgramming0408.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\obj\Debug\net6.0\ConsoleProgramming0408.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\obj\Debug\net6.0\ConsoleProgramming0408.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\obj\Debug\net6.0\ConsoleProgramming0408.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\obj\Debug\net6.0\ConsoleProgramming0408.dll
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\obj\Debug\net6.0\refint\ConsoleProgramming0408.dll
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\obj\Debug\net6.0\ConsoleProgramming0408.pdb
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\obj\Debug\net6.0\ConsoleProgramming0408.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\박찬우\C-Project\ConsoleProgramming0408\obj\Debug\net6.0\ref\ConsoleProgramming0408.dll
