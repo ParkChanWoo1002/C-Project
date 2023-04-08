@@ -12,3 +12,17 @@ C:\Users\qkrck\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.cspr
 C:\Users\qkrck\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\Users\qkrck\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\Users\qkrck\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+D:\git\C-Project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\git\C-Project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\git\C-Project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\git\C-Project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\git\C-Project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\git\C-Project\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\git\C-Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\git\C-Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\C-Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\git\C-Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\git\C-Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\git\C-Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\git\C-Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\git\C-Project\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

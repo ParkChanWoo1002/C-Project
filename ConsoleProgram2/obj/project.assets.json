@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\C-Project\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\git\\C-Project\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\git\\C-Project\\ConsoleProgram2\\ConsoleProgram2.csproj",
+      "projectName": "ConsoleProgram2",
+      "projectPath": "D:\\git\\C-Project\\ConsoleProgram2\\ConsoleProgram2.csproj",
       "packagesPath": "C:\\Users\\qkrck\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\C-Project\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\git\\C-Project\\ConsoleProgram2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\visualstudioSDK\\NuGetPackages"
