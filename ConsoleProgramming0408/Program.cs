@@ -141,6 +141,7 @@ namespace ConsoleProgramming0408
 
         }
 
+        //유니티 솔리드 https://velog.io/@gooeynewts/SOLID-Design-Patterns-Unity
 
     }
 }
