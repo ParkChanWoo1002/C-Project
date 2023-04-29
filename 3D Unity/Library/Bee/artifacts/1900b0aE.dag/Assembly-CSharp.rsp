@@ -357,6 +357,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/_Collision/Script/CubeA.cs"
+"Assets/_Collision/Script/GameManager.cs"
 "Assets/_Scripts/Monster.cs"
 "Assets/_Scripts/NewBehaviourScript.cs"
 -langversion:9.0
